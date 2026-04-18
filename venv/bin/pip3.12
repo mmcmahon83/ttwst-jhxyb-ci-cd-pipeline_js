@@ -1,4 +1,4 @@
-#!/home/mike/Documents/Projects/ci-cd/ttwst-jhxyb-ci-cd-pipeline_js/venv/bin/python3
+#!/home/mike/Documents/Projects/ci-cd/ttwst-jhxyb-ci-cd-pipeline_js/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
